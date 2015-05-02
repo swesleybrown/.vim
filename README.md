@@ -1,2 +1,2 @@
 # .vim
-Vim with .vimrc file
+Vim with vimrc file
